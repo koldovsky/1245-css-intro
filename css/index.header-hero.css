@@ -1,0 +1,9 @@
+.header__title {
+    color: var(--title-color);
+}
+
+.header__title-asterisk {
+    color: var(--accent-color);
+}
+
+
